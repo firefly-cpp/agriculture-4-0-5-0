@@ -52,6 +52,8 @@ Polymeni, Sofia, et al. "[The Impact of 6G-IoT Technologies on the Development o
 
 VANGHELE, NA, et al. "AGRICULTURE 5.0-REVIEW." Annals of the University of Craiova-Agriculture, Montanology, Cadastre Series 51.2 (2021): 576-583.
 
+## Datasets
+
 ### Research papers
 
 Ragazou, Konstantina, et al. "[Agriculture 5.0: A new strategic management mode for a cut cost and an energy efficient agriculture sector](https://www.mdpi.com/1996-1073/15/9/3113)." Energies 15.9 (2022): 3113.
