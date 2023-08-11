@@ -60,6 +60,26 @@ VANGHELE, NA, et al. [AGRICULTURE 5.0-REVIEW](https://anale.agro-craiova.ro/inde
 
 ### Research papers
 
+Baryshnikova, N., et al. [Ensuring global food security: Transforming approaches in the context of agriculture 5.0](https://iopscience.iop.org/article/10.1088/1755-1315/988/3/032024/meta) IOP conference series: earth and environmental science. Vol. 988. No. 3. IOP Publishing, 2022.
+
+Contreras-Medina, David Israel, Sergio Ernesto Medina-Cuéllar, and Juan Manuel Rodríguez-García. [Roadmapping 5.0 Technologies in Agriculture: A Technological Proposal for Developing the Coffee Plant Centered on Indigenous Producers’ Requirements from Mexico, via Knowledge Management](https://www.mdpi.com/2223-7747/11/11/1502) Plants 11.11 (2022): 1502.
+
+Dineva, Kristina, and Tatiana Atanasova. [Expandable IoT Architecture for Livestock in Agriculture 5.0](https://www.proquest.com/openview/7059963ef4ad5df7785ab51b90114fba/1?pq-origsite=gscholar&cbl=1536338) International Multidisciplinary Scientific GeoConference: SGEM 21.6.1 (2021): 93-100.
+
+Ferreira, Anna Carolina Dall’Aneze, Silvia Lenyra Meirelles Campos Titotto, and Alessandra Cristina Santos Akkari. [Urban Agriculture 5.0: An Exploratory Approach to the Food System in a Super Smart Society](https://www.researchgate.net/profile/Alessandra-Akkari/publication/362061557_Urban_Agriculture_50_An_Exploratory_Approach_to_the_Food_System_in_a_Super_Smart_Society/) International Journal of Mathematical, Engineering and Management Sciences 7.4 (2022): 455.
+
 Martos, Vanesa, et al. [Ensuring agricultural sustainability through remote sensing in the era of agriculture 5.0](https://www.mdpi.com/2076-3417/11/13/5911) Applied Sciences 11.13 (2021): 5911.
 
+Mesías-Ruiz, Gustavo A., et al. [Boosting precision crop protection towards agriculture 5.0 via machine learning and emerging technologies: A contextual review](https://www.frontiersin.org/articles/10.3389/fpls.2023.1143326/full) Frontiers in Plant Science 14 (2023): 1143326.
+
+Pandrea, Vlad-Andrei, Andrei-Ovidiu Ciocoiu, and Mihai Machedon-Pisu. [IoT-Based Irrigation System For Agriculture 5.0](https://ieeexplore.ieee.org/abstract/document/10171631/) 2023 17th International Conference on Engineering of Modern Electric Systems (EMES). IEEE, 2023.
+
 Ragazou, Konstantina, et al. "[Agriculture 5.0: A new strategic management mode for a cut cost and an energy efficient agriculture sector](https://www.mdpi.com/1996-1073/15/9/3113)." Energies 15.9 (2022): 3113.
+
+Siddharth, Dhirendra, Dilip Kumar Saini, and Ajay Kumar. [Precision agriculture with technologies for smart farming towards agriculture 5.0](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119769170.ch14) Unmanned Aerial Vehicles for Internet of Things (IoT) Concepts, Techniques, and Applications (2021): 247-276.
+
+Tiwari, Rajesh, et al. [Agriculture 5.0 in India: Opportunities and Challenges of Technology Adoption](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003138037-10/agriculture-5-0-india-rajesh-tiwari-khem-chand-arvind-bhatt-bimal-anjum-thirunavukkarasu) A Step Towards Society 5.0 (2021): 179-198.
+
+VALENTIN, VLADUŢ, et al. [Principles of integration the agri-drones in agricultural production environments. New concepts towards agriculture-5.0](https://anale.agro-craiova.ro/index.php/aamc/article/download/1269/1198) Annals of the university of craiova-agriculture, montanology, cadastre series 51.2 (2021): 604-614.
+
+Yin, Shi, Yuexia Wang, and Junfeng Xu. [Developing a conceptual partner matching framework for digital green innovation of agricultural high-end equipment manufacturing system toward agriculture 5.0: A Novel Niche Field Model Combined With Fuzzy VIKOR](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.924109/full) Frontiers in Psychology 13 (2022): 924109.
